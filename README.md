@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IsabellaSirius
-- 👀 I’m interested in Swift&Python
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me IsabellaWu0215@icloud.com
+- 👋 Hi, I’m @IsabellaWu
+- 👀 I’m interested in Swift&Python Also everything about AI and hacking
+- 🌱 I’m currently learning JS Hacking etc.
+- 💞️ I’m looking to collaborate on LLMs and some hacking skills
+- 📫  IsabellaWu0215@icloud.com
 - 
 
 <!---
